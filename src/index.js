@@ -14,3 +14,9 @@ function cleanContainer(){
     container.textContent = "";
 }
 //
+
+
+const todoBtn = document.querySelector(".todoBtn");
+todoBtn.addEventListener("click", () =>{
+
+});
