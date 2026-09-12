@@ -5,6 +5,7 @@ import { merge } from 'webpack-merge';
  
 export default merge(common, {
    devtool: "eval-source-map",
+   mode: 'development',
        devServer: {
        watchFiles: ["./src/template.html"],
     },

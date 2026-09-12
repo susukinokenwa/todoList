@@ -20,5 +20,13 @@
     "webpack-cli": "^7.2.3",
     "webpack-dev-server": "^6.0.0",
     "webpack-merge": "^6.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susukinokenwa/todoList.git"
+  },
+  "bugs": {
+    "url": "https://github.com/susukinokenwa/todoList/issues"
+  },
+  "homepage": "https://github.com/susukinokenwa/todoList#readme"
 }
